@@ -47,6 +47,7 @@ public class practica2 {
                     break;
                 default:
                     System.out.println("Operacion incorrecta");
+                    System.out.println("version 3.2");
                     System.exit(0);
             }
         }
